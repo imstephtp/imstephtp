@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imstephtp" target="blank"><img src="https://img.shields.io/twitter/follow/imstephtp?logo=twitter&style=for-the-badge" alt="imstephtp" /></a> </p>
 
-- 🔭 I’m currently working on **MAQUE cerámica & Monethink**
+- 🔭 I’m currently working on **[MAQUE cerámica](https://github.com/imstephtp/Proyecto_Maque.ceramica) & [Monethink](https://github.com/Monethink)**
 
 - 🌱 I’m currently learning **Python**
 
