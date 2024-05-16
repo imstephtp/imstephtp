@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **cstephany.tp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1LkGwTusMmIUtbKHGyYPv95G4ASUCJIfs](https://drive.google.com/drive/u/0/folders/1LkGwTusMmIUtbKHGyYPv95G4ASUCJIfs)
+- 📄 Know about my experiences [CV](https://drive.google.com/drive/u/0/folders/1LkGwTusMmIUtbKHGyYPv95G4ASUCJIfs)
 
 - ⚡ Fun fact **I genuinly think I am funny.**
 
